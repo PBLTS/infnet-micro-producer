@@ -1,0 +1,5 @@
+com/infnet/spring/jpa/h2/controller/VendaController.class
+com/infnet/spring/jpa/h2/repository/VendaRepository.class
+com/infnet/spring/jpa/h2/model/Vendas.class
+com/infnet/spring/jpa/h2/SpringBootJpaH2Application.class
+com/infnet/spring/jpa/h2/service/VendaService.class
